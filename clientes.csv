@@ -1,2 +1,2 @@
-id, nombre_cliente
-1, andrea
+id, nombre_cliente, correo
+1, andrea, andrea@gmail.com
